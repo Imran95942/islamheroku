@@ -124,7 +124,7 @@ def locale_button(bot, update):
             InlineKeyboardButton("Spanish 🇪🇸", callback_data="set_lang_es")
         ]] + [[
             InlineKeyboardButton("Indonesian 🇮🇩", callback_data="set_lang_id"),
-            InlineKeyboardButton("Russian 🇷🇺", callback_data="set_lang_ru")
+            InlineKeyboardButton("Russian 🤖", callback_data="set_lang_ru")
         ]] + [[
             InlineKeyboardButton(f"{tld(chat.id, 'btn_go_back')}",
                                  callback_data="bot_start")
