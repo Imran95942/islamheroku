@@ -13,7 +13,7 @@ Alternatively, [find me on telegram](https://t.me/RealAkito)! (Keep all support 
 You can also join our support group [here!](https://t.me/HarukaAyaBot)
 (Keep in the mind that we does not support any fork of Haruka Aya.)
 
-Help us bring more languages to the bot by contributing to the project in [Crowdin](https://crowdin.com/project/haruka)!
+Help us bring gmore languages to the bot by contributing to the project in [Crowdin](https://crowdin.com/project/haruka)!
 
 ## Contributing to the project
 * You must sign off on your commit.
@@ -22,7 +22,7 @@ Help us bring more languages to the bot by contributing to the project in [Crowd
 
 ## Thanks to
 * RealAkito - Current Haruka Aya Owner
-* zakaryan2004 - For helping out a lot with this project.
+* zakaryan2004 - For helping out a lot with this hhproject.
 * MrYacha - For Yana :3
 * Skittle - For memes and sticker stuff.
 * 1mavarick1 - Introducing Global Mutes, etc.
